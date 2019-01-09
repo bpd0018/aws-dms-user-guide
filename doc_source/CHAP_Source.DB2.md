@@ -7,6 +7,8 @@ You can migrate data from an IBM Db2 for Linux, Unix, and Windows \(Db2 LUW\) da
 
 You can use SSL to encrypt connections between your Db2 LUW endpoint and the replication instance\. You must be using AWS DMS engine version 2\.4\.2 or higher to use SSL\. For more information on using SSL with a Db2 LUW endpoint, see [Using SSL With AWS Database Migration Service](CHAP_Security.SSL.md)\.
 
+"SQL Server" => "Db2 LUW"
+
 ## Prerequisites When Using Db2 LUW as a Source for AWS DMS<a name="CHAP_Source.DB2.Prerequisites"></a>
 
 The following prerequisites are required before you can use an Db2 LUW database as a source\.
